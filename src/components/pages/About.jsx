@@ -1,6 +1,7 @@
+
 import React from 'react'
 
-const About = () => {
+export default function About(){
   return (
     <div>
         <h1>Git Gud!</h1>
@@ -25,4 +26,3 @@ const About = () => {
   )
 }
 
-export default About
