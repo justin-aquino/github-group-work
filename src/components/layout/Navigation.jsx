@@ -1,7 +1,8 @@
+import { Link } from 'react'
 export default function Navigation() {
     return (
         <>
-        navigation
+        <Link to='/'>About</Link>
         </>
     )
 }
